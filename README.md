@@ -17,6 +17,6 @@ mvn clean package
 
 ## Run
 ```sh
-java -cp target/2019-IP-unidad-06-1.0.0.jar TestColor
-java -cp target/2019-IP-unidad-06-1.0.0.jar TestObjetos
+java -cp target/2019-IP-unidad-06-1.0.0.jar procedures.FiguraMain
+java -cp target/2019-IP-unidad-06-1.0.0.jar Prueba
 ```
